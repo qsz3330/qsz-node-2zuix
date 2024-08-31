@@ -1,0 +1,24 @@
+{
+    "name": "@qsz3330/qsz-node-2zuix",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qsz3330/qsz-node-2zuix.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "qsz3330",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qsz3330/qsz-node-2zuix/issues"
+    },
+    "homepage": "https://github.com/qsz3330/qsz-node-2zuix#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@qsz3330/qsz-node-2zuix": "^1.0.0"
+    }
+}
